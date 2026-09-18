@@ -24,6 +24,10 @@
 
 `git checkout -b <branchname>`
 
+* Pull the changes
+
+`git pull`
+
 ## Git Commands
 
 | Command | Usage | Example |
