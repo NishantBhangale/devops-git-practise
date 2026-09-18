@@ -20,6 +20,10 @@
 
 `git config -l
 
+* Checkout branch
+
+`git checkout -b <branchname>`
+
 ## Git Commands
 
 | Command | Usage | Example |
