@@ -41,3 +41,5 @@
 | `git log` | check commit history | `git log` |
 | `git revert commit-id` | creates new commit that undoes changes made by given commit | `git revert 4ae73` |
 | `git reset commit-id` | reset head back till given commit id. | `git reset 2sd3i` |
+| `git clean -n` | show untracked files that can be removed | `git clean -n` |
+| `git clean -f` | remove untracked files | `git clean -f` |
